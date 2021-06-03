@@ -4,7 +4,7 @@
 2) Change the name of user by changing the username variable (Make sure it is a string!) on line 18 in the #SETUP section
 3) Right click on the ".pyw" file => Send to => Desktop (Create shortcut) 
 4) Go to desktop, find the shortcut, drag and drop into this folder: "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp" (Program auto starts every time PC boots)
-5) Done!
+5) Done! All temp files will be cleared whenever your PC boots from here on
 '''
 
 
