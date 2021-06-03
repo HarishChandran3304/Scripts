@@ -13,4 +13,4 @@ A script for Windows to automatically terminate all instances of certain process
 5. Modify the hotkey combination according to your need by changing the "hotkey" list on line 21 in the #SETUP section
 6. Right click on the ".pyw" file => Send to => Desktop (Create shortcut)
 7. Go to desktop, find the shortcut, drag and drop into this folder: "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp" (Program auto starts every time PC boots)
-8. Done!
+8. Done! Use the hotkey (alt + e by default) whenever you wish to activate the script
