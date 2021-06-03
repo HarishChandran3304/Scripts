@@ -2,13 +2,9 @@
 
 ## About
 
-<hr>
-
 A script for Windows to automatically terminate all instances of certain processes with the press of a hotkey
 
 ## Instructions
-
-<hr>
 
 1. Open console, "type pip install -r requirements.txt" and hit enter (Installing required library)
 2. In console, type "tasklist" and hit enter
