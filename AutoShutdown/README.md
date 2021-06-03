@@ -2,13 +2,9 @@
 
 ## About
 
-<hr>
-
 A script for Windows to automatically shutdown your PC on a particular time each day
 
 ## Instructions
-
-<hr>
 
 1. Open console, "type pip install -r requirements.txt" and hit enter (Installing required library)
 2. Fill in the shutdown timings for each day in the #SETUP section
