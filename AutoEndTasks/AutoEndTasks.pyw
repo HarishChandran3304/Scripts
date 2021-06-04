@@ -18,7 +18,7 @@ import keyboard
 
 #SETUP
 terminatelist = ["Spotify.exe"] # Process Image Names as strings [Use "tasklist" in shell to find it]
-hotkey = ["alt+e"] # Alt + e by default
+hotkey = ["alt", "e"] # Alt + e by default
 
 
 #HELPER FUNCTION
